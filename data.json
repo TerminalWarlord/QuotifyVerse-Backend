@@ -1,0 +1,30 @@
+{
+    "status": 200,
+    "data": [
+        {
+            "id": 1,
+            "quote": "Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance.",
+            "author": "Abraham Lincoln",
+            "description": "The meaning of this quote by Lincoln defines the man who promises his utmost devotion to everything he does and not simply to be the hero of his own story but to deliver it sincerely and authentically. He is asserting that his actions will be guided by his conscience and personal integrity, rather than seeking to present a perfect image or conform to societal expectations. In this, he is giving the nod to the critics and admitting the possibility that he may be faced with opposition, anyway. He points out that, to the goal of his studies, if he reaches a certain level then no one will be able to say anything about him because his results will be enough to guarantee him. On the one hand, he is now free to say that should he not win the race or commit any blunders, no amount of external support or attempts at defense will seal the fate of the outcome. Lincoln is also emphasizing the character and the reputation of an individual. He expresses that nobody's behavior should be determined by external situations but by inner morals. This quote could be seen as an example of Lincoln's own life where he was working with honesty, diligence, and accountability, as well as his willingness to take calculated risks and face possible criticism to achieve his goals. In addition, this quote is a great example of Lincoln's practical and down-to-earth approach. Instead of offering a surefire plan or a guarantee of success, he speaks to a commitment to doing his best and being authentic to himself. This quote highlights the fact that the real triumph and achievement that we can gain in our lives are the result of hard work done, resilience shown, and the readiness to take responsibility for one's actions rather than looking for external validation or excuses, and it should be a reminder to us in this respect. To be brief, Lincoln's quote is a compilation of principles like integrity, accountability, and authenticity. It motivates listeners to choose the right way even in the face of difficulties instead of looking for a perfect image or pleasing others.",
+            "about_author": "Abraham Lincoln was an American lawyer, politician, and statesman who served as the 16th president of the United States from 1861 until his assassination in 1865.",
+            "author_dob": "Born in 1940",
+            "topics": [
+                "Life"
+            ],
+            "image": "https://i0.wp.com/quotes.espacehub.org/wp-content/uploads/2024/08/quote_with_bg-2.png?w=800&ssl=1"
+        },
+        {
+            "id": 2,
+            "quote": "Gratitude unlocks the fullness of life. It turns what we have into enough, and more. It turns denial into acceptance.",
+            "author": "Lincoln",
+            "description": "The meaning of this quote by Lincoln defines the man who promises his utmost devotion to everything he does and not simply to be the hero of his own story but to deliver it sincerely and authentically. He is asserting that his actions will be guided by his conscience and personal integrity, rather than seeking to present a perfect image or conform to societal expectations. In this, he is giving the nod to the critics and admitting the possibility that he may be faced with opposition, anyway. He points out that, to the goal of his studies, if he reaches a certain level then no one will be able to say anything about him because his results will be enough to guarantee him. On the one hand, he is now free to say that should he not win the race or commit any blunders, no amount of external support or attempts at defense will seal the fate of the outcome. Lincoln is also emphasizing the character and the reputation of an individual. He expresses that nobody's behavior should be determined by external situations but by inner morals. This quote could be seen as an example of Lincoln's own life where he was working with honesty, diligence, and accountability, as well as his willingness to take calculated risks and face possible criticism to achieve his goals. In addition, this quote is a great example of Lincoln's practical and down-to-earth approach. Instead of offering a surefire plan or a guarantee of success, he speaks to a commitment to doing his best and being authentic to himself. This quote highlights the fact that the real triumph and achievement that we can gain in our lives are the result of hard work done, resilience shown, and the readiness to take responsibility for one's actions rather than looking for external validation or excuses, and it should be a reminder to us in this respect. To be brief, Lincoln's quote is a compilation of principles like integrity, accountability, and authenticity. It motivates listeners to choose the right way even in the face of difficulties instead of looking for a perfect image or pleasing others.",
+            "about_author": "Abraham Lincoln was an American lawyer, politician, and statesman who served as the 16th president of the United States from 1861 until his assassination in 1865.",
+            "author_dob": "Born in 1940",
+            "topics": [
+                "Life",
+                "Ability"
+            ],
+            "image": "https://i0.wp.com/quotes.espacehub.org/wp-content/uploads/2024/08/quote_with_bg-2.png?w=800&ssl=1"
+        }
+    ]
+}
